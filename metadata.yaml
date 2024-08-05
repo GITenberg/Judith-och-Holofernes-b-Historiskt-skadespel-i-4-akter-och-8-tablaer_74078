@@ -1,0 +1,38 @@
+_repo: Judith-och-Holofernes-b-Historiskt-skadespel-i-4-akter-och-8-tablaer_74078
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tavaststjerna, August
+    aliases:
+    - Tavaststjerna, Frans August Theodor
+    - Tawaststjerna, August
+    - Tawaststjerna, Frans August Theodor
+    birthdate: 1821
+    deathdate: 1882
+    gutenberg_agent_id: '57335'
+    url: http://www.gutenberg.org/2009/agents/57335
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/August_Tavaststjerna
+    - https://sv.wikipedia.org/wiki/August_Tavaststjerna
+description: ''
+gutenberg_issued: '2024-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74078'
+language: sv
+pgterms:marc905: 20240713102449tavaststje
+pgterms:marc906: '1880'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsingfors :$bG. W. Edlunds Förlag, $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Judith (Biblical figure) -- Drama'
+- !lcsh 'Bible plays'
+- !lcsh 'Swedish drama'
+- !lcc 'PT'
+- GITenberg
+title: 'Judith och Holofernes : $b Historiskt skådespel i 4 akter och 8 tablåer'
+url: http://www.gutenberg.org/ebooks/74078
