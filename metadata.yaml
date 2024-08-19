@@ -1,5 +1,8 @@
 _repo: Judith-och-Holofernes-b-Historiskt-skadespel-i-4-akter-och-8-tablaer_74078
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tavaststjerna, August
@@ -15,6 +18,8 @@ creator:
     - https://fi.wikipedia.org/wiki/August_Tavaststjerna
     - https://sv.wikipedia.org/wiki/August_Tavaststjerna
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74078#Judith-och-Holofernes-b-Historiskt-skadespel-i-4-akter-och-8-tablaer
 gutenberg_issued: '2024-07-20'
 gutenberg_type: Text
 identifiers:
